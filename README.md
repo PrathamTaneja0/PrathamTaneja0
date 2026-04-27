@@ -1,39 +1,23 @@
 # 👋 Hi, I'm Pratham  
 
-🎓 Computer Science student in Germany  
-💻 Passionate about building full-stack apps  
-🧠 Currently learning LLM Engineering  
+🎓 CS student in Germany  
+💻 Full-stack developer  
+🧠 Learning LLM Engineering  
 
 ---
 
-## 🚀 Tech Stack  
-
-### 💻 Languages  
-JavaScript (ES6+), Python, Java, C/C++, SQL  
-
-### ⚙️ Frameworks & Libraries  
-React.js, Node.js, Redux Toolkit, Spring Boot  
-Bootstrap, Tailwind CSS, Material UI  
-JUnit5, Pandas, Matplotlib  
-
-### 🗄️ Databases  
-MySQL, MariaDB, MongoDB  
-
-### 🛠️ Tools & Platforms  
-Git, GitHub, Docker, Linux, Postman  
-VS Code, RESTful API Development  
+## 🚀 Tech  
+**Languages:** JS, Python, Java, C/C++, SQL  
+**Frameworks:** React, Node, Redux, Spring Boot  
+**Tools:** Git, Docker, Linux, Postman  
+**DB:** MySQL, MongoDB  
 
 ---
 
-## 🌟 Favorite Project  
-
-**[Konvo](https://github.com/PrathamTaneja0/Konvo)** 🚀  
-A full-stack social media SaaS application  
+## 🌟 Project  
+👉 **[Konvo](https://github.com/PrathamTaneja0/Konvo)** — Social media SaaS  
 
 ---
 
-## 🎮 About Me  
-
-🎥 I like anime  
-🎮 Into video games  
-☕ Coffee is my fuel  
+## 🎮 About  
+Anime • Video Games • Coffee ☕  
