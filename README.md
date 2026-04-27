@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratham  
 
-<!--
-**PrathamTaneja0/PrathamTaneja0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student in Germany  
+💻 Passionate about building full-stack apps  
+🧠 Currently learning LLM Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+
+### 💻 Languages  
+JavaScript (ES6+), Python, Java, C/C++, SQL  
+
+### ⚙️ Frameworks & Libraries  
+React.js, Node.js, Redux Toolkit, Spring Boot  
+Bootstrap, Tailwind CSS, Material UI  
+JUnit5, Pandas, Matplotlib  
+
+### 🗄️ Databases  
+MySQL, MariaDB, MongoDB  
+
+### 🛠️ Tools & Platforms  
+Git, GitHub, Docker, Linux, Postman  
+VS Code, RESTful API Development  
+
+---
+
+## 🌟 Favorite Project  
+
+**[Konvo](https://github.com/PrathamTaneja0/Konvo)** 🚀  
+A full-stack social media SaaS application  
+
+---
+
+## 🎮 About Me  
+
+🎥 I like anime  
+🎮 Into video games  
+☕ Coffee is my fuel  
