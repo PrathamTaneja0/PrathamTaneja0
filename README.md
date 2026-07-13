@@ -3,7 +3,7 @@
 💻 Passionate about building full-stack AI-powered applications 
 
 ## 🌟 Favorite Project  
-**[Konvo](https://github.com/PrathamTaneja0/WhisperLink)** - A lightweight, anonymous voice and text chat app.
+**[WhisperLink](https://whisperlink.tanejapratham5.workers.dev/)** - A lightweight, anonymous voice and text chat app.
 
 ## 🎮 About Me  
 🎥 I like anime  
